@@ -1,1 +1,2 @@
 hancurkan
+jancuk tenan
