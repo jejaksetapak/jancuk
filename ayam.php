@@ -1,2 +1,0 @@
-hancurkan
-jancuk tenan
