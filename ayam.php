@@ -1,1 +1,1 @@
-kontol
+hancurkan
