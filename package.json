@@ -1,8 +1,8 @@
 {
     "name": "sample",
     "version": "0.1.0",
-    "private": false,
-    "homepage": "https://github.com/wansr87/myapp.git",
+    "private": true,
+    "homepage": "https://github.com/wansr87/gitpage.gi",
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.5.0",
