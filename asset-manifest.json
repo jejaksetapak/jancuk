@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jejaksetapak/jancuk.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jejaksetapak/jancuk.git/static/js/main.392b1781.chunk.js",
+    "main.js.map": "/jejaksetapak/jancuk.git/static/js/main.392b1781.chunk.js.map",
+    "runtime-main.js": "/jejaksetapak/jancuk.git/static/js/runtime-main.2e481077.js",
+    "runtime-main.js.map": "/jejaksetapak/jancuk.git/static/js/runtime-main.2e481077.js.map",
+    "static/js/2.ed4a8858.chunk.js": "/jejaksetapak/jancuk.git/static/js/2.ed4a8858.chunk.js",
+    "static/js/2.ed4a8858.chunk.js.map": "/jejaksetapak/jancuk.git/static/js/2.ed4a8858.chunk.js.map",
+    "index.html": "/jejaksetapak/jancuk.git/index.html",
+    "precache-manifest.b1d3ebb530882729cc3170e13e0b5697.js": "/jejaksetapak/jancuk.git/precache-manifest.b1d3ebb530882729cc3170e13e0b5697.js",
+    "service-worker.js": "/jejaksetapak/jancuk.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jejaksetapak/jancuk.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ed4a8858.chunk.js.LICENSE.txt": "/jejaksetapak/jancuk.git/static/js/2.ed4a8858.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jejaksetapak/jancuk.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e481077.js",
+    "static/js/2.ed4a8858.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.392b1781.chunk.js"
+  ]
+}
